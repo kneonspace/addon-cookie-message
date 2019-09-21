@@ -1,0 +1,22 @@
+.cookie-consent {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #1ab;
+    line-height: 4;
+    text-align: center;
+    color: #fff;
+}
+
+.cookie-consent a {
+    color: #fff;
+    text-decoration: underline;
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.cookie-consent a:hover {
+    text-decoration: none;
+    opacity: 0.6;
+}
